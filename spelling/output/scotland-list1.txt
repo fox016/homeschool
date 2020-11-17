@@ -218,11 +218,3 @@ queen
 hello
 meet
 penny
-
-=== Week 14 ===
-about
-soft
-left
-school
-merry
-
